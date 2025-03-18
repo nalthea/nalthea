@@ -1,22 +1,18 @@
 # what's up it's naomi
 <a href="https://linkedin.com/in/naomi-a-jackson"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-i'm a security analyst and researcher with a focus on ai-enabled threat vectors, including deepfakes and other social engineering attacks.
+i'm a security analyst and researcher interested in novel threat vectors and their implications.
 
-
-## Objective
-i'm currently searching for a security team where i can leverage my threat hunting and monitoring skills as an analyst.
+## my goals
+this wiki documents my journey with various aspects of cyber, mostly defensively but not only defensively. some of these projects are completely self-directed, some of them document progress through a platform, some of them are about courses. 
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/nalthea/nalthea/wiki/KQL">KC7</a>|
+| Kusto Query Language | <a href="https://github.com/nalthea/nalthea/wiki/KQL">KC7</a>|
+| AI-enabled threat research | <a href="
 
 ## Tools
 
@@ -50,6 +46,4 @@ i'm currently searching for a security team where i can leverage my threat hunti
 </div>
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
