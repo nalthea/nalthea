@@ -4,7 +4,7 @@
 i'm a security analyst and researcher interested in novel threat vectors and their implications.
 
 ## my goals
-this wiki documents my journey with various aspects of cyber, mostly defensively but not only defensively. some of these projects are completely self-directed, some of them document progress through a platform, some of them are about courses. 
+i'm documentingmy journey with various aspects of cyber, mostly defensively but not only defensively. some of these projects are completely self-directed, some of them document progress through a platform, some of them are about courses. 
 
 ## Skills
 
