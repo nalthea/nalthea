@@ -12,7 +12,7 @@ this wiki documents my journey with various aspects of cyber, mostly defensively
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/nalthea/nalthea/wiki/KQL">KC7</a>|
 | Kusto Query Language | <a href="https://github.com/nalthea/nalthea/wiki/KQL">KC7</a>|
-| AI-enabled threat research | <a href="
+| AI-enabled threat research | <a href="https://github.com/nalthea/nalthea/wiki/blogging#dont-fear-the-deepfake">Deepfakery</a>|
 
 ## Tools
 
