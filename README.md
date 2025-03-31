@@ -4,7 +4,7 @@
 i'm a security analyst and researcher interested in novel threat vectors and their implications.
 
 ## my goals
-i'm documentingmy journey with various aspects of cyber, mostly defensively but not only defensively. some of these projects are completely self-directed, some of them document progress through a platform, some of them are about courses. 
+this wiki documents my journey with various aspects of cyber, mostly defensively but not only defensively. some of these projects are completely self-directed, some of them document progress through a platform, some of them are about courses. 
 
 ## Skills
 
@@ -13,6 +13,8 @@ i'm documentingmy journey with various aspects of cyber, mostly defensively but 
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/nalthea/nalthea/wiki/KQL">KC7</a>|
 | Kusto Query Language | <a href="https://github.com/nalthea/nalthea/wiki/KQL">KC7</a>|
 | AI-enabled threat research | <a href="https://github.com/nalthea/nalthea/wiki/blogging#dont-fear-the-deepfake">Deepfakery</a>|
+| ELK stack | <a href="https://github.com/nalthea/nalthea/wiki/MyDFIR-30%E2%80%90day-SOC-Challenge">SOC Challenge</a>|
+| Network Diagramming | <a href="https://github.com/nalthea/nalthea/wiki/MyDFIR-30%E2%80%90day-SOC-Challenge">SOC Challenge</a>|
 
 ## Tools
 
